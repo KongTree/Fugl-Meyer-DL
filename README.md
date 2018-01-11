@@ -1,2 +1,1 @@
-# Fugl-Meyer-DL
-딥러닝
+# tf-fugl-meyer
